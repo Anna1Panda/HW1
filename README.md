@@ -1,22 +1,22 @@
 # Проект 1. Угадай число
 
 ## Оглавление
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/Anna1Panda/HW1/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?]()
+[2. Какой кейс решаем?](https://github.com/Anna1Panda/HW1/blob/main/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных]()
+[3. Краткая информация о данных](https://github.com/Anna1Panda/HW1/blob/main/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом]()
+[4. Этапы работы над проектом](https://github.com/Anna1Panda/HW1/blob/main/README.md#Этапы-работы-над-проектом)
 
-[5. Результат]()
+[5. Результат](https://github.com/Anna1Panda/HW1/blob/main/README.md#Результат)
 
-[6. Выводы]()
+[6. Выводы](https://github.com/Anna1Panda/HW1/blob/main/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Anna1Panda/HW1/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -41,13 +41,13 @@
 ### Этапы работы над проектом
 ...
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Anna1Panda/HW1/blob/main/README.md#Оглавление)
 
 ### Результат
 ...
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Anna1Panda/HW1/blob/main/README.md#Оглавление)
 
 ### Выводы
 ...
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/Anna1Panda/HW1/blob/main/README.md#Оглавление)
