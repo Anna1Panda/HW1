@@ -55,4 +55,5 @@
 ### Выводы
 
 Получили код, который выполняет входные условия.
+
 :arrow_up:[к оглавлению](https://github.com/Anna1Panda/HW1/blob/main/README.md#Оглавление)
